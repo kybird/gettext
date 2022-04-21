@@ -1,0 +1,28 @@
+# Korean translations for PACKAGE package
+# PACKAGE 패키지에 대한 한국어 번역문.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 14:56+0800\n"
+"PO-Revision-Date: 2022-04-21 14:56+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: test_gettext.sh:13 test_gettext.sh:15
+#, sh-format
+msgid "$f not found"
+msgstr "$f를 찾을수 없습니다"
+
+#: test_gettext.sh:14 test_gettext.sh:16
+msgid "file not found"
+msgstr "파일을 찾을수 없습니다"
