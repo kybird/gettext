@@ -44,7 +44,6 @@ filename.dat not found
 file not found
 ```
 
-PROXY TEST
 
 
 출처: <https://docs.oracle.com/cd/E36784_01/html/E39536/gnkbn.html>
