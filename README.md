@@ -17,7 +17,7 @@ TEXTDOMAIN: 스크립트의 이름
 TEXTDOMAINDIR: 스크립트의 번역문 저장위치
 
 ``` bash
-# 번역템플리스 생성
+# 번역템플리트 생성
 $ xgettext -c"TRANSLATORS:" -L"Shell" test_gettext.sh
 
 # 한국어용 번역사본 ko.po 생성
